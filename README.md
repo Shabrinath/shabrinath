@@ -85,15 +85,14 @@ Snowflake · Databricks · Spark · MariaDB · MongoDB · Redis
 - [GitHub](https://github.com/Shabrinath)
 
 ## 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shabrinath&show_icons=true&theme=tokyonight&hide_border=true" alt="Shabrinath's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shabrinath&theme=tokyonight" alt="Shabrinath's GitHub profile summary" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shabrinath&theme=tokyonight" alt="Languages used in repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabrinath&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shabrinath&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shabrinath&theme=tokyonight" alt="Shabrinath's GitHub contribution streak" />
+</p> -->
